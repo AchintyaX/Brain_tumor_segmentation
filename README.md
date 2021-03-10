@@ -76,7 +76,3 @@ Slice Number                 F1-Score (complete)
 112                             0.9297  0.7868
 113                             0.9273  0.79228
 ```
-## Last Few Words
-This paper is really simple, elegant and brillant. It put together various architectural and training ideas to tackle the brain tumor segementation. I am really thankful to Dr. Aditya abhyankar, Dean, DoT, Pune University, who helped solve my doubts and encouraged me to try out this paper. Special thanks to Mohammad Havaei, author of the paper, who also guided me and solved my doubts. 
-
-Now to all who were with me till end, Thank you for your efforts! If you liked my repo and the work I have done, feel free to star this repo and follow me. I will make sure to bring out awesome deep learning projects like this in the future. Until the next time, サヨナラ!
